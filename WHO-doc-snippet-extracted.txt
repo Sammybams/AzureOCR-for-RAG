@@ -1,0 +1,848 @@
+World Health Organization
+Implementation tools
+Package of Essential Noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+HEART DISEASE & STROKE
+CANCER
+DIABETES
+CHRONIC RESPIRATORY DISEASE
+
+Implementation tools Package of Essential Noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+World Health Organization
+WHO Library Cataloguing-in-Publication Data
+Implementation tools: package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings.
+1.Primary health care. 2.Chronic disease. 3.Delivery of health care. 4.Health services - organization and administration. 5.Practice guideline. 6.Developing countries. I.World Health Organization.
+ISBN 978 92 4 150655 7 (NLM classification: W 84.6)
+Acknowledgments:
+The document was developed under the aegis of the Assistant Director General, Oleg Chestnov
+Supervision and technical coordination Shanthi Mendis, Director, Management of Noncommunicable Diseases a.i., Technical staff; Gojka Roglic, Cecilia Sepulveda, Ruitai Shao, Experts of Guideline Development Groups (see CD), Experts of Guideline Review Groups (see CD).
+The report on Scaling up action against noncommunicable diseases: How much will it cost ? was developed by Dan Chisholm, Dele Abegunde, Shanthi Mendis and others (see CD)
+Administrative staff: Maritha Osekre-Amey, Joel Tarel
+World Health Organization 2013
+All rights reserved. Publications of the World Health Organization are available on the WHO website (www.who.int) or can be purchased from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel .: +41 22 791 3264; fax: +41 22 791 4857; e-mail: bookorders@who.int).
+Requests for permission to reproduce or translate WHO publications-whether for sale or for non-commercial distribution- should be addressed to WHO Press through the WHO website (www.who.int/about/licensing/copyright_form/en/index. html).
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or recommended by the World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the World Health Organization be liable for damages arising from its use.
+Printed in Luxembourg
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+Contents
+Introduction
+7
+I. Protocols for primary care
+WHO PEN Protocol 1
+Prevention of Heart Attacks, Strokes and Kidney Disease through
+Integrated Management of Diabetes and Hypertension
+14
+WHO PEN Protocol 2
+18
+Health Education and Counseling on Healthy Behaviours
+18
+WHO PEN Protocol 3
+20
+3.1 Management of Asthma
+21
+3.2 Management of Management of Chronic Obstructive Pulmonary Disease 22 WHO PEN Protocol 4
+24
+4.1 Assessment and referral of women with suspected breast cancer at
+24
+4.2 Assessment and referral of women with suspected cervical cancer at primary health care
+25
+Essential technologies and tools for WHO PEN
+26
+Core list of medicines for WHO PEN
+27
+II. Guidelines and other implementation tools
+29
+Guidelines for referral of suspected breast and cervical cancer at primary health care in low-resource settings
+Abbreviations
+31
+Executive summary Breast cancer
+33
+Cervical cancer
+34
+Introduction
+36
+Objectives, scope, and methods
+39
+Declaration of Interest
+41
+Format, dissemination and implementation
+41
+Evaluation
+42
+Evidence and recommendations
+44
+Referral of women with suspected breast cancer
+46
+What are the signs and symptoms in women presenting at PHC that
+could lead to referral of suspected breast cancer to specialized services?
+46
+Referral of women with suspected cervical cancer
+50
+What are the signs and symptoms in women presenting at PHC that
+could lead to referral of suspected cervical cancer to specialized services? 50
+Management of asthma and chronic obstructive pulmonary disease in
+primary health care in low-resource settings
+54
+Abbreviations
+55
+Executive summary
+56
+Recommendations
+58
+Management of stable asthma
+58
+Management of exacerbation of asthma
+59
+Management of stable COPD
+60
+Management of exacerbation of COPD
+62
+Methodology used to prepare the guideline
+68
+Annex 3 - PICOT questions
+74
+Asthma
+74
+COPD
+78
+Annex VII - Summary of recommendations
+80
+Diagnosis and management of asthma
+80
+Diagnosis and management of COPD
+83
+13
+14
+primary health care
+30
+32
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+Diagnosis and management of type 2 diabetes in primary health care in low-resource settings Executive Summary
+86
+Recommendations
+87
+Background
+90
+Objectives and target audience
+91
+Funding and declarations of interest
+91
+Methodology and process
+92
+Scope of the guideline
+92
+Adaptation and implementation
+96
+Update
+96
+Format and dissemination
+96
+Impact and quality of the guideline
+97
+Recommendations and evidence
+98
+A. Diagnosing diabetes
+98
+B. Glycaemic control
+99
+C. Reducing the risk of cardiovascular disease and diabetic nephropathy
+105
+D. Prevention of lower limb amputations
+110
+E. Prevention of blindness
+111
+F. Severe hypoglycaemia
+112
+G. Hyperglycaemic emergencies
+113
+Prevention of Cardiovascular Disease - Pocket Aid for Assessment and Management of Cardiovascular Risk
+116
+Introduction
+117
+Target audience
+117
+Settings
+118
+Resource needs
+118
+What are the goals of implementation?
+118
+Who needs referral to a specialist facility ?
+118
+Assessing and managing cardiovascular risk in people with risk factors who have not yet developed clinically manifest cardiovascular disease (primary prevention) 120
+When can the decision be made to give drugs even before grading the cardiovascular risk?
+120
+How do you use the charts to assess cardiovascular risk? Practice points
+122
+Management of people with established CHD, CeVD or peripheral
+125
+III. Self-care of cardiovascular disease, diabetes and chronic respiratory disease
+Abbreviations
+128
+Executive summary
+130
+Questions
+132
+Introduction
+136
+Methods
+138
+Databases searched (only English language)
+138
+The evidence
+138
+Outcomes
+141
+Primary outcomes
+141
+Secondary outcomes
+141
+Formulation of recommendations
+142
+Peer review
+143
+Declarations of Interest
+143
+Results
+144
+Question 1: In patients with non-communicable diseases do self-care strategies targeted at the community and/or support networks rather than the individual improve outcomes?
+144
+4
+87
+121
+vascular disease (secondary prevention)
+127
+Question 2: In patients with non-communicable diseases do lay led self-management patient programmes improve outcomes? 146
+Question 3: In patients with non-communicable diseases do online resources for self-care improve outcomes?
+148
+Question 4: In patients with non-communicable diseases do self- monitoring devices improve outcomes? 149
+Question 5: In patients with non-communicable diseases do mobile telephone and/or telemonitoring interventions targeted at self-care improve outcomes? 151
+Question 6: In patients with non-communicable diseases do self- treatment interventions improve outcomes? 155
+Question 7: In patients with non-communicable diseases do self-care education/information programmes improve outcomes? 157
+Question 8: In patients with non-communicable diseases do self-care rehabilitation programmes improve outcomes?
+163
+Question 9: In patients with non-communicable diseases do interventions targeted at adherence improve outcomes? 166
+IV. Scaling up action against noncommunicable diseases: how much will it cost?
+Summary
+170
+1. Introduction
+172
+1.1 Policy context and rationale
+172
+1.2 Scope, purpose and objectives
+173
+2. Methods
+175
+2.1 Principles and practice of costing the scale-up of health services 2.2 Selection of diseases, risk factors and intervention strategies
+177
+2.3 Assessment of epidemiological need and intervention coverage 2.4 Estimation of resource needs and unit costs
+180 182
+3. Results
+186
+3.1 Cost of scaling up 'best buy' interventions for NCD risk factors
+186
+3.2 Cost of scaling up best buy interventions for NCDs
+191
+3.3 Total estimated cost of a best buy package for NCD prevention and control
+194
+4. Conclusion
+196
+4.1 Main findings
+196
+4.2 Implications for health policy and resource allocation
+196
+4.3 Study limitations and uncertainties
+198
+4.4 Next steps: country-level application and validation
+200
+Costing Tool - User Guide
+202
+Abbreviations
+202
+Costing Tool - User Guide
+203
+Introduction
+203
+Summary: Step-by-step guide for using the noncommunicable
+diseases (NCDs) Costing Tool
+203
+Purpose of the Costing Tool
+203
+Sample clinical record for monitoring WHO PEN interventions (see CD) Sample questionnaire for rapid assessment of capacity of primary care facilities (see CD)
+WHO guideline on screening for cardiovascular risk and diabetes (under development)
+Tools for strengthening capacity in implementation research; Package of Essential Noncommunicable disease (PEN) interventions for primary care in resource constrained settings (under development)
+5
+169
+175
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+V. Content of Compact disc
+1. Guidelines for referral of suspected breast and cervical cancer at primary health care in low-resource settings
+Acknowledgements, Web-based resources, Annex 1 Evidence assessment and Grade tables, Annex 2 Evidence on risk factors, References, List of contributors
+2. Management of asthma and chronic obstructive pulmonary disease in primary health care in low-resource settings
+GRADE tables, Search strategies, References, Members of the
+Guideline Development Group
+3. Diagnosis and Management of type 2 diabetes in primary health care in low- resource settings Systematic reviews and GRADE tables, Benefits and harms of recommendations, Members of the guideline development group
+4. Simplified tools and other documents for implementation of the guidelines
+4.1 World Health Organization 2008. Prevention of Cardiovascular Disease. Pocket Guidelines for Assessment and Management of Cardiovascular Risk
+4.2 WHO/ISH risk prediction charts
+4.3 World Health Organization 2010. WHO Package of Essential Noncommunicable disease interventions and protocols
+4.4 World Health Organization 2011. Scaling up action against noncommunicable diseases; how much does it cost? and Tool for estimating cost of implementing the Best Buys (with the User Guide)
+4.5 Sample clinical record for monitoring WHO PEN interventions
+4.6 Sample questionnaire for rapid assessment of capacity in primary care facilities for integration of WHO PEN interventions
+4.7 World Health Organization 2011. Use of Glycated Haemoglobin (HbA1c) in the Diagnosis of Diabetes Mellitus
+4.8 World HealthOrganization 2013. Diagnostic Criteria and Classification of Hyperglycaemia First Detected in Pregnancy
+4.9 World Health Organization 2013 Self-care of cardiovascular disease, diabetes and chronic respiratory disease
+Other WHO documents on Prevention and Control of Noncommunicable Diseases
+6
+Introduction
+Effective approaches to reduce the noncommunicable disease (NCD) burden in low-and middle-income countries (LMIC) include a mixture of population-wide and individual interventions. Such cost-effective interventions are already available and include methods for early detection of NCDs and their diagnoses using inexpensive technologies, non pharmacological and pharmacological approaches for modifica- tion of NCD risk factors and affordable medications for prevention and treatment of heart attacks and strokes, diabetes, cancer and asthma. These low technology interventions, if effectively delivered, can reap future savings in terms of reduced medical costs, improved quality of life and productivity. However, due to weak health systems, there are substantive gaps in their implementation particularly in LMIC.
+Efficient use of limited health care resources, sustainable health financing mechanisms, access to basic diagnostics and essential medicines and organized medical information and referral systems are imperative for provision of equitable care for people with and at risk of NCDs. They require long-term care that is proactive, patient centered, community based and sustainable. Such care can be deliv- ered equitably only through health systems based on primary health care (PHC).
+Further, two billion people in the world are living below the pov- erty line and poverty and NCDs are linked through many pathways. Although providing good quality care for the poor is an ethical impera- tive, due to weak health systems and inadequate health-care expendi- ture of many countries, the poor do not have access to services at all or receive substandard services. Furthermore, out-of-pocket expenditure is unacceptably high in many LMIC. Countries need to transform and regulate health systems for universal access and social protection. This transformation will take several years given the global financial status and wide disparities in domestic resources between countries. In the meantime, Ministries of Health (MoHs) need to take steps to improve health outcomes and to reduce rising health-care costs due to NCDs and their preventable complications.
+The WHO Package of Essential Noncommunicable Disease Inter- ventions (WHO PEN) for primary care in low-resource settings is an innovative and action-oriented response to the above challenges. It is a prioritized set of cost-effective interventions that can be delivered to an acceptable quality of care, even in resource-poor settings. It will reinforce health system strengthening by contributing to the building blocks of the health system (table i, table ii). Cost effectiveness of the selected interventions will help to make limited resources go further
+7
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+and the user-friendly nature of the tools that are been developed, will empower primary care physicians as well as allied health workers to contribute to NCD care (table iii). It should not be considered as yet another package of basic services but, rather, an important first step for integration of NCD into PHC and for reforms that need to cut across the established boundaries of the building blocks of national health systems. WHO PEN is the minimum standard for NCDs to strengthen national capacity to integrate and scale up care of heart disease, stroke, cardiovascular risk, diabetes, cancer, asthma and chronic obstructive pulmonary disease in primary health care in low-resource settings. Most importantly, it defines a minimum set of essential NCD interventions for any country that wishes to initiate a process of universal coverage reforms to ensure that health systems contribute to health equity, social justice, community solidarity and human rights.
+Why do we need these implementation tools?
+These tools of the WHO Package of Essential Noncommunicable Diseases Interventions (WHO PEN) support implementation of very cost effective interventions through an integrated approach.
+Implementation of WHO PEN is a key component of the objective 4 of the Global Action Plan. These tools will enable early detection and management of cardiovascular diseases, diabetes, chronic respira- tory diseases and cancer to prevent life threatening complications (e.g. heart attacks, stroke, kidney failure, amputations, blindness).
+Effective implementation of WHO PEN, combined with other very cost effective population-wide interventions, will help even resource constrained settings to attain the global voluntary targets related to reduction of premature mortality and prevention of heart attacks and strokes *.
+Equitable financing of interventions in WHO PEN can be a first step for addressing prevention and control of noncommunicable diseases within the universal health coverage agenda.
+8
+* A 25% relative reduction in risk of premature mortality from cardiovascular disease, cancer, diabetes or chronic respiratory disease
+* Prevention of heart attacks and strokes by providing treat- ment (including glycemic control) and counselling at least to 50% of eligible people (those with a 10 year cardiovascular risk equal to or above 30%) and reducing their cardiovas- cular risk.
+8
+Table i: WHO PEN for primary care in low-resource settings overview*
+Goals
+To close the gap between what is needed and what is currently available to reduce the burden, health-care costs and human suffering due to major NCDs by achieving higher coverage of essential interventions in LMIC
+To achieve universal access to high-quality diagnosis and patient-centred treatment
+To reduce the suffering and socioeconomic burden associated with major NCDs
+To protect poor and vulnerable populations from heart disease, stroke, hypertension cancer, diabetes, asthma and chronic respiratory disease
+To provide effective and affordable prevention and treatment through primary care
+To support early detection, community engagement and self-care
+Objectives
+Equity and efficiency objectives Improve the efficiency of care of major NCD in primary care through:
+enhanced implementation of human rights standards;
+provision of cost effective interventions based on need rather than ability to pay;
+targeting limited resources to those who are most likely to benefit due to high risk;
+standardization of diagnostic and investigation procedures and drug prescription;
+formulation of referral criteria for further assessment or hospitalization;
+definition of parameters for planning and budget;
+selection of monitoring and evaluation indicators.
+Quality of care objectives Improve the quality of care of major NCD in primary care through:
+cost effective case management;
+appropriate referral and follow-up;
+prevention, early detection and cost effective case management
+management of exacerbations and emergencies;
+follow-up of long-term treatment prescribed by the specialist.
+Health impact objectives Have a beneficial impact on health through:
+reduction of tobacco consumption in NCD patients;
+reduction of the average delay in the diagnosis of NCD by the health services;
+reduction of the risk of heart attacks, strokes, amputations and kidney failure;
+reduction of case fatality of major NCDs;
+prevention of acute events and complications;
+prolongation of the duration of stable clinical periods for CVDs, diabetes, asthma and COPD patients.
+* Reference: World Health Organization Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings, World Health Organization, 2010.
+9
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+Table ii: Contribution of WHO PEN to Health System Building Blocks*
+Leadership/governance
+Assess needs and gaps and facilitate the use of available resources for prevention and control of NCDs efficiently and equitably
+Support government efforts to drive the agenda towards universal coverage.
+Financing
+Prioritize NCD interventions to support raising of adequate funds for universal coverage
+Facilitate phased- out provision of financial protection for NCDs.
+Medical products and technologies
+Define prerequisites for integrating a core set of essential NCD interventions into primary care
+Develop an affordable list of essential medicines and appropriate technologies
+Improve access to essential medicines.
+Health information system
+Provide templates to gather reliable health information of people
+Health workforce
+Provide training material to enhance knowledge and skills for NCDs prevention and control
+Audit performance
+Service delivery
+Improve access to essential preventive and curative NCD interventions
+Provide equitable opportunities for early detection
+Define core set of cost-effective NCD interventions
+Provide tools for their implementation
+Improve quality of care
+Improve gate-keeper function of primary care
+Reduce costs due to hospital admissions and complications.
+People
+Develop tools for community engagement and empowerment of people for self-care
+Improve health outcomes.
+* Reference: World Health Organization Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings, World Health Organization, 2010.
+10
+Table iii: Core set of policy options and cost-effective interventions for prevention and control of major noncommunicable diseases through a primary health care approach*
+Objective 4 To strengthen and orient health systems to address the prevention and control of noncommunicable diseases and the underlying social determinants through people-centred primary health care and universal health coverage
+Integrate very cost-effective noncommunicable disease interventions into the basic primary health care package to advance the universal health coverage agenda
+Explore viable health financing mechanisms and innovative economic tools supported by evidence
+Scale up early detection and coverage, prioritizing very cost-effective high-impact interventions
+Train health workforce and strengthen capacity of health system particularly at primary care level
+Improve availability of affordable basic technologies and essential medicines, including generics, required to treat major noncommunicable diseases, in both public and private facilities
+Implement other cost-effective interventions and policy options in objective 4 to strengthen and orient health systems to address noncommunicable diseases and risk factors through people- centred primary health care and universal health coverage.
+Develop and implement a palliative care policy
+Cardiovascular disease and diabetes: $
+Drug therapy (including glycaemic control for diabetes mellitus and control of hypertension using a total risk approach) to individuals who have had a heart attack or stroke and to persons with high risk (≥ 30%) of a fatal and nonfatal cardiovascular event in the next 10 years*
+Acetylsalicylic acid for acute myocardial infarction*
+Drug therapy (including glycaemic control for diabetes mellitus and control of hypertension using a total risk approach) to individuals who have had a heart attack or stroke, and to persons with moderate risk (≥ 20%) of a fatal and nonfatal cardiovascular event in the next 10 years
+Secondary prevention of rheumatic fever and rheumatic heart disease
+Detection, treatment and control of hypertension
+Acetylsalicylic acid, atenolol and thrombolytic therapy (streptokinase) for acute myocardial infarction
+Treatment of congestive cardiac failure with ACE inhibitor, beta-blocker and diuretic
+Cardiac rehabilitation post myocardial infarction
+Anticoagulation for medium- and high-risk non-valvular atrial fibrillation and for mitral stenosis and atrial fibrillation
+Low-dose acetylsalicylic acid for ischemic stroke
+Diabetes: §
+Lifestyle interventions for preventing type 2 diabetes
+Influenza vaccination for patients with diabetes
+Preconception care among women of reproductive age including patient education and intensive glucose management
+Detection of diabetic retinopathy by dilated eye examination followed by appropriate laser photocoagulation therapy to prevent blindness
+Effective angiotensin-converting enzyme inhibitor drug therapy to prevent progression of renal disease
+Care of acute stroke and rehabilitation in stroke units
+Interventions for foot care: educational programs, access to appropriate footwear; multidisciplinary clinics.
+11
+Cancer: §
+Prevention of liver cancer through hepatitis B immunization*
+Prevention of cervical cancer through screening (visual inspection with acetic acid [VIA] & linked with timely treatment of pre-cancerous lesions*
+Vaccination against human papillomavirus, as appropriate if cost-effective and affordable, according to national programmes and policies
+&& Population-based cervical cancer screening linked with timely treatment
+- && Population-based breast cancer and mammography screening (50-70 years) linked with timely treatment
+&& Population-based colorectal cancer screening at age >50, linked with timely treatment
+&& Oral cancer screening in high-risk groups (e.g. tobacco users, betel-nut chewers) linked with timely treatment
+Chronic respiratory disease: $
+Access to improved stoves and cleaner fuels to reduce indoor air pollution
+Cost-effective interventions to prevent occupational lung diseases, e.g. from exposure to silica, asbestos
+Treatment of asthma based on WHO guidelines
+Influenza vaccination for patients with chronic obstructive pulmonary disease
+* Very cost-effective i.e. generate an extra year of healthy life for a cost that falls below the average annual income or gross domestic product per person
+§ Policy actions for prevention of major noncommunicable diseases are listed under objective 3
+& Or Pap smear (cervical cytology), if very cost-effective
+&& Screening is meaningful only if the capacity for diagnosis, referral and treatment is simultaneously improved.
+* Reference: Global Action Plan for Prevention and Control of Noncommunicable Diseases 2013-2020, Appendix 3.
+I. Protocols for primary care
+for management of hypertension, diabetes, raised cardiovascular risk, asthma, chronic obstructive pulmonary disease and referral of suspected breast and cervical cancer through an integrated approach
+8 A 25% relative reduction in the overall mortality from cardiovascular diseases, cancer, diabetes, or chronic respiratory diseases
+At least 50% of eligible people receive drug therapy and counselling (including glycaemic control) to prevent heart attacks and strokes
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+WHO PEN Protocol 1 Prevention of Heart Attacks, Strokes and Kidney Disease through Integrated Management of Diabetes and Hypertension
+When could this Protocol be used?
+The protocol is for assessment and management of cardiovascular risk using hypertension, diabetes mellitus (DM) and tobacco use as entry points
+It could be used for routine management of hypertension and DM and for screening, targeting the following categories of people:
+age > 40 years
+smokers
+waist circumference ( ≥ 90 cm in women ≥100 cm in men)
+known hypertension
+known DM
+history of premature CVD in first degree relatives
+history of DM or kidney disease in first degree relatives
+Follow instructions given in Action 1 to Action 4, step by step
+Action 1. Ask about:
+Diagnosed heart disease, stroke, TIA, DM, kidney disease
+FIRST VISIT
+Angina, breathlessness on exertion and lying flat, numbness or weakness of limbs, loss of weight, increased thirst, polyuria, puffiness of face, swelling of feet, passing blood in urine etc
+Medicines that the patient is taking
+Current tobacco use (yes/no) (answer yes if tobacco use during the last 12 months)
+Alcohol consumption (yes/no) (if Yes', frequency and amount)
+Occupation (sedentary or active)
+Engaged in more than 30 minutes of physical activity at least 5 days a week (yes/no)
+Family history of premature heart disease or stroke in first degree relatives
+14
+I. Protocols for primary care
+Action 2. Assess (physical exam and blood and urine tests):
+Waist circumference
+Measure blood pressure, look for pitting odema
+Palpate apex beat for haeving and displacement
+Auscultate heart (rhythm and murmurs)
+Auscultate lungs (bilateral basal crepitations)
+Examine abdomen (tender liver)
+In DM patients examine feet; sensations, pulses, and ulcers
+Urine ketones (in newly diagnosed DM) and protein
+Total cholesterol
+Fasting or random blood sugar (diabetes= fasting blood sugar≥7 mmol/l (126 mg/dl)) or random blood sugar ≥11.i mmol/l (200 mg/dl))
+(Point of care devices can be used for testing blood sugar if laboratory facilities are not available)
+Action 3. Estimate cardiovascular risk (in those not referred):
+Use the WHO/ISH risk charts relevant to the WHO subregion (Annex and CD)
+Use age, gender, smoking status, systolic blood pressure, DM (and plasma cholesterol if available)
+If age 50-59 years select age group box 50, if 60-69 years select age group box 60 etc., for people age < 40 years select age group box 40
+If cholesterol assay cannot be done use the mean cholesterol level of the population or a value of 5.2 mmol/l to calculate the cardiovascular risk)
+If the person is already on treatment, use pretreatment levels of risk factors (if information is available to assess and record the pretreatment risk. Also assess the current risk using current levels of risk factors)
+Risk charts underestimate the risk in those with family history of premature vascular disease, obesity, raised triglyceride levels
+FIRST VISIT
+Action 4: Referral criteria for all visits:
+BP >200/>120 mm Hg (urgent referral)
+BP ≥140 or ≥ 90 mmHg in people < 40 yrs (to exclude secondary hypertension)
+Known heart disease, stroke, transient ischemic attack, DM, kidney disease (for assessment, if this has not been done)
+New chest pain or change in severity of angina or symptoms of transient ischemic attack or stroke
+Target organ damage (e.g. angina, claudication, haeving apex, cardiac failure)
+Cardiac murmurs
+Raised BP ≥140/90 ( in DM above 130/ 80mmHg) while on treatment with 2 or 3 agents
+Any proteinuria
+Newly diagnosed DM with urine ketones 2+ or in lean persons of <30 years
+Total cholesterol >8mmol/l
+DM with poor control despite maximal metformin with or without sulphonylurea
+DM with severe infection and/or foot ulcers
+DM with recent deterioration of vision or no eye exam in 2 years
+High cardiovascular risk
+If referral criteria are not present go to Action 5
+15
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+Action 5. Counsel all and treat as shown below
+Risk < 20%
+Counsel on diet, physical activity, smoking cessation and avoiding harmful use of alcohol
+If risk < 10% follow up in 12 months
+If risk 10 - < 20% follow up every 3 months until targets are met, then 6-9 months thereafter
+Counsel on diet, physical activity, smoking cessation and avoiding harmful use of alcohol
+Risk 20 to <30%
+Persistent BP ≥ 140/90 mm Hg consider drugs (see below ** Antihypertensive medications)
+Follow-up every 3-6 months
+Counsel on diet, physical activity, smoking cessation and avoiding harmful use of alcohol
+Risk > 30%
+Persistent BP ≥ 130/80 consider drugs (see below ** Antihypertensive medications)
+Give a statin
+Follow-up every 3 months, if there is no reduction in cardiovascular risk after six months of follow up refer to next level
+FIRST VISIT
+Consider drug treatment for following categories
+All patients with established DM and cardiovascular disease (coronary heart disease, myocardial infarc- tion, transient ischaemic attacks, cerebrovascular disease or peripheral vascular disease), renal dis- ease. If stable, should continue the treatment already prescribed and be considered as with risk >30%
+People with albuminuria, retinopathy, left ventricular hypertrophy
+All individuals with persistent raised BP ≥ 160/100 mmHg; antihypertensive treatment
+All individuals with total cholesterol at or above 8 mmol/l (320 mg/dl); lifestyle advice and statins
+** Antihypertensive medications
+If under 55 years low dose of a thiazide diuretic and/ or angiotensin converting enzyme inhibitor
+If over 55 years calcium channel blocker and/or low dose of a thiazide diuretic
+If intolerant to angiotensin converting enzyme inhibitor or for women in child bearing age consider a beta blocker
+Thiazide diuretics and/or long-acting calcium channel blockers are more appropriate as initial treatment for certain ethnic groups. Medications for compelling indications should be prescribed, regardless of race/ ethnicity
+Test serum creatinine and potassium before prescribing an angiotensin converting enzyme inhibitor
+Additional actions for individuals with DM:
+Give an antihypertensive for those with BP ≥ 130/80 mmHg
+Give a statin to all with type 2 DM aged ≥ 40 years
+Give Metformin for type 2 DM if not controlled by diet only (FBS>7mmol/l), and if there is no renal insufficiency, liver disease or hypoxia.
+Titrate metformin to target glucose value
+Give a sulfonylurea to patients who have contraindications to metformin or if metformin does not improve glycaemic control.
+Give advise on foot hygiene, nail cutting, treatment of calluses, appropriate footwear and assess feet at risk of ulcers using simple methods (inspection, pin-prick sensation)
+Angiotensin converting enzyme inhibitors and/or low-dose thiazides are recommended as first-line treatment of hypertension. Beta blockers are not recommended for initial management but can be used if thiazides or angiotensin converting enzyme inhibitors are contraindicated.
+Follow up every 3 months
+Important practice points
+16
+I. Protocols for primary care
+Advice to patients and family
+Avoid table salt and reduce salty foods such as pickles, salty fish, fast food, processed food, canned food and stock cubes
+Have your blood glucose level, blood pressure and urine checked regularly
+Advice specific for DM
+FIRST VISIT
+Advise overweight patients to reduce weight by reducing their food intake.
+Advise all patients to give preference to low glycaemic-index foods ( e.g.beans, lentils, oats and unsweetened fruit) as the source of carbohydrates in their diet
+If you are on any DM medication that may cause your blood glucose to go down too low carry sugar or sweets with you
+If you have DM, eyes should be screened for eye disease (diabetic retinopathy) by an ophthalmologist at the time of diagnosis and every two years thereafter, or as recommended by the ophthalmologist
+Avoid walking barefoot or without socks
+Wash feet in lukewarm water and dry well especially between the toes
+Do not cut calluses or corns, and do not use chemical agents on them
+Look at your feet every day and if you see a problem or an injury, go to your health worker
+SECOND VISIT
+Repeat
+Ask about: new symptoms, adherence to advise on tobacco and alcohol use, physical activity, healthy diet, medications etc
+Action 2 Assess (Physical exam)
+Action 3 Estimate cardiovascular risk
+Action 4 Refer if necessary
+Action 5 Counsel all and treat as shown in protocol
+References:
+Prevention and control of noncommunicable diseases; Guidelines for primary health care, World Health Organization, 2012
+Scaling up action against noncommunicable diseases. How much will it cost?, World Health Organization, 2011
+Prevention of cardiovascular diseases; Pocket guidelines for assessment and man- agement of cardiovascular risk, World Health Organization, 2008
+17
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+WHO PEN Protocol 2 Health Education and Counseling on Healthy Behaviours (to be applied to ALL)
+Educate your patient to
+Take regular physical activity
+Eat a "heart healthy" diet
+Stop tobacco and avoid harmful use of alcohol
+Attend regular medical follow-up
+Take regular physical activity
+Progressively increase physical activity to moderate levels (such as brisk walking); at least 150 minutes per week
+Control body weight and avoid overweight by reducing high calorie food and taking adequate physical activity
+Eat a heart healthy diet
+Salt (sodium chloride)
+Restrict to less than 5 grams (1 teaspoon) per day
+Reduce salt when cooking, limit processed and fast foods
+Fruits and vegetables
+5 servings (400-500 grams) of fruits and vegetable per day
+1 serving is equivalent to 1 orange, apple, mango, banana or 3 tablespoons of cooked vegetables
+Fatty food
+Limit fatty meat, dairy fat and cooking oil (less than two tablespoons per day)
+Replace palm and coconut oil with olive, soya, corn, rapeseed or safflower oil
+Replace other meat with chicken (without skin)
+Stop Tobacco and avoid harmful use of Alcohol:
+Encourage all non-smokers not to start smoking
+Strongly advise all smokers to stop smoking and support them in their efforts
+Individuals who use other forms of tobacco should be advised to quit
+Alcohol abstinence should be reinforced.
+People should not be advised to start taking alcohol for health reasons
+Advise patients not to use alcohol when additional risks are present, such as:
+driving or operating machinery
+pregnant or breast feeding
+taking medications that interact with alcohol
+having medical conditions made worse by alcohol
+. having difficulties in controlling drinking
+Adherence to treatment
+If the patient is prescribed a medicine/s: teach the patient how to take it at home:
+explain the difference between medicines for long- term control (e.g. blood pressure) and medicines for quick relief (e.g. for wheezing)
+tell the patient the reason for prescribing the medicine/s
+Show the patient the appropriate dose
+Explain how many times a day to take the medicine
+Label and package the tablets
+Check the patient's understanding before the patient leaves the health centre
+Explain the importance of:
+keeping an adequate supply of the medications
+■ the need to take the medicines regularly as advised even if there are no symptoms
+18
+I. Protocols for primary care
+A1: ASK
+Do you use tobacco?
+NO
+Reinforce message that tobacco increases risk of heart disease
+Advise to quit in a clear, strong and personalized manner
+A2: ADVISE
+YES
+"Tobacco use increases the risk of developing a heart attack, stroke, lung cancer and respiratory diseases. Quitting tobacco use is the one most important thing you can do to protect your heart and health, you have to quit now."
+A3: ASSESS
+Are you willing to make a quit attempt now ?
+YES
+NO
+Assist in preparing a quitting plan
+Promote motivation to quit
+A4: ASSIST
+Set quit date Inform family and friends Ask for their support Remove cigarettes/tobacco Remove objects/articles that prompt you to smoke Arrange follow up visit*
+Provide information on health hazards of tobacco and give leaflet to the patient
+At follow-up visit
+A5: ARRANGE
+Congratulate success and reinforce If patient has relapsed, consider more intensive
+follow-up and support from family
+* Ideally second follow-up visit is recommended within the same month and every month thereafter for 4 months and evaluation after 1 year. If not feasible, reinforce counseling whenever the patient is seen for blood pressure monitoring.
+19
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+WHO PEN Protocol 3 3.1 Management of Asthma 3.2 Management of Chronic Obstructive Pulmonary Disease (COPD)
+ASK
+Asthma and COPD can both present with cough, difficult breathing, tight chest and/or wheezing
+The following features make a diagnosis of asthma more likely:
+The following features make a diagnosis of COPD more likely:
+« previous diagnosis of asthma;
+previous diagnosis of COPD;
+symptoms since childhood or early adulthood;
+history of heavy smoking, i.e. >20 cigarettes per day for >15 years;
+history of hayfever, eczema and/ or allergies;
+history of heavy and prolonged exposure to burning fossil fuels in an enclosed space, or high exposure to dust in an occupational setting;
+intermittent symptoms with asymptomatic periods in between;
+DIAGNOSIS
+symptoms worse at night or early morning;
+symptoms started in middle age or later (usually after age 40);
+symptoms triggered by respiratory infection, exercise, weather changes or stress;
+" symptoms worsened slowly over a long period of time;
+symptoms respond to salbutamol.
+long history of daily or frequent cough and sputum production often
+starting before shortness of breath;
+symptoms that are persistent with little day-to-day variation.
+Measure Peak Expiratory Flow rate (PEFR)
+Give two puffs of salbutamol and remeasure in 15 minutes
+TEST
+If the PEF improves by 20%, a diagnosis of asthma is very probable.
+Smaller response makes a diagnosis of COPD more likely
+Reference: Guidelines for primary health care in low resource settings Management of asthma and chronic obstructive pulmonary disease. World Health Organization, 2012
+20
+I. Protocols for primary care
+WHO PEN Protocol 3.1 Management of Asthma
+ASK
+Is asthma well controlled or uncontrolled?
+Asthma is considered to be well controlled if the patient has:
+daytime asthma symptoms and uses a beta agonist two or fewer times per week;
+" night time asthma symptoms two or fewer times per month;
+" no or minimal limitation of daily activities;
+no severe exacerbation (i.e. requiring oral steroids or admission to hospital) within a month;
+a PEFR, if available, above 80% predicted.
+If any of these markers are exceeded, the patient is considered to have uncontrolled asthma.
+TREAT
+Increase or decrease treatment according to how well asthma is controlled using a stepwise approach
+Step 1. Inhaled salbutamol prn
+Step 2. Inhaled salbutamol prn plus low-dose inhaled beclometasone, starting with 100ug twice daily for adults and 100ug once or twice daily for children
+Step 3. Same as step 2, but give higher doses of inhaled beclometasone, 200ug or 400ug twice daily
+Step 4. Add low-dose oral theophylline to Step 3 treatment (assuming long-acting beta agonists and leukotriene antagonists are not available) Step 5. Add oral prednisolone, but in the lowest dose possible to control symptoms (nearly always less than 10mg daily)
+At each step, check the patient's adherence to treatment and observe their inhaler technique.
+REFER
+Review asthma control every 3-6 months and more frequently when treatment has been changed or asthma is not well controlled.
+Referral for specialist:
+when asthma remains poorly controlled;
+when the diagnosis of asthma is uncertain;
+when regular oral prednisolone is required to maintain control.
+21
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+WHO PEN Protocol 3.1 Management of exacerbation of Asthma
+ASSESS
+Assess severity
+Severe
+PEFR 33-50% best or predicted.
+Respiratory rate more than 25 breaths/minute (adult).
+Heart rate ≥110 beats/minute.(adult)
+Inability to complete sentences in one breath.
+Very severe
+altered conscious level, exhaustion, arrhythmia, hypotension, cyanosis, silent chest, poor respiratory effort.
+Sp02 <92%
+TREAT
+First-line treatment
+prednisolone 30-40mg for five days for adults and 1mg per kg for three days for children, or longer, if necessary, until they have recovered;
+I salbutamol in high doses by metered dose inhaler and spacer (e.g. four puffs every 20 minutes for one hour) or by nebulizer;
+oxygen, if available, and if oxygen saturation levels are low (below 90%).
+Reassess at intervals depending on severity.
+Second-line treatment to be considered if the patient is not responding to first-line treatment
+Increase frequency of dosing via an metered dose inhaler and spacer or by nebulizer, or give salbutamol by continuous nebulization at 5-10mg per hour, if appropriate nebulizer available;
+"for children, nebulized ipratropium, if available, can be added to nebulized salbutamol.
+ADVICE
+Asthma - Advice to patients and families
+Regarding prevention:
+avoid cigarette smoke and trigger factors for asthma, if known;
+avoid dusty and smoke-filled rooms;
+Avoid occupations that involve agents capable of causing occupational asthma
+reduce dust as far as possible by using damp cloths to clean furniture, sprinkling the floor with water before sweeping, cleaning blades of fans regularly and minimizing soft toys in the sleeping area;
+It may help to eliminate cockroaches from the house (when the patient is away) and shake and expose mattresses, pillows, blankets, etc. to sunlight.
+Regarding treatment, ensure that the patient or parent:
+knows what to do if their asthma deteriorates;
+understands the benefit from using inhalers rather than tablets, and why adding a spacer is helpful;
+is aware that inhaled steroids take several days or even weeks to be fully effective.
+22
+I. Protocols for primary care
+WHO PEN Protocol 3.2 Management of Chronic Obstructive Pulmonary Disease
+ASSESS
+Assess severity
+Moderate - if breathless with normal activity
+Severe - if breathless at rest
+Measure PEFR and oxygen saturation, if possible.
+TREAT
+inhaled salbutamol, two puffs as required, up to four times daily;
+" if symptoms are still troublesome, consider low-dose oral theophylline;
+if ipratropium inhalers are available, they can be used instead of, or added to, salbutamol, but they are more expensive.
+ADVICE
+COPD - Advice to patients and families
+ensure they understand that smoking and indoor air pollution are the major risk factors for COPD - therefore, patients with COPD must stop smoking and avoid dust and tobacco smoke;
+keep the area where meals are cooked well ventilated by opening windows and doors;
+cook with wood or carbon outside the house, if possible, or build an oven in the kitchen with a chimney that vents the smoke outside;
+" stop working in areas with occupational dust or high air pollution - using a mask may help, but it needs to have an appropriate design and provide adequate respiratory protection.
+Management of exacerbation of COPD
+TREAT
+antibiotics should be given for all exacerbations;
+for severe exacerbations, give oral prednisolone 30-40mg for around seven days;
+· give high doses of inhaled salbutamol by nebulizer or metered dose inhaler with spacer; (e.g. four puffs every 20 minutes for one hour) or by nebulizer;
+oxygen, if available, should be given by a mask that limits the concentration to 24% or 28%.
+23
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+WHO PEN Protocol 4 4.1 Assessment and referral of women with suspected breast cancer at primary health care
+Women who present the following persistent and unexplained signs and symptoms should seek consultation at a PHC:
+a) Breast lump, or any change in the shape or consistency of the breast
+b) Breast lump that enlarges and/or is fixed and hard
+c) Other breast problems (i.e. eczematous skin changes, nipple retractation, peau d'orange, ulceration, unilateral nipple discharge - particularly bloody discharge -, lump in the axilla) with or without palpable lump
+Assess likelihood for breast cancer
+Assess signs and symptoms (i.e. history, intensity, duration, progression)
+Identify relevant breast cancer risk factors (such as age, family history, previous history of breast cancer, chest irradiation)
+Clinical examination of both breasts, axillae and neck
+Differential diagnosis: benign breast diseases (e.g. fibroadenoma, fibroadenosis, mastitis, abscess, etc.)
+Women < 30 years old
+Women 30 years old and above
+Presenting with a)
+Presenting with:
+Presenting with: a) b) or c)
+a) + relevant risk factors, or b) or c)
+Invite for follow-up visit after menstrual period
+Follow-up visit: if b) or c)
+Refer immediately to next level
+Note: Referral of women with small breast lumps may lead to diagnosis of "early breast cancer"
+24
+I. Protocols for primary care
+WHO PEN Protocol 4 4.2 Assessment and referral of women with suspected cervical cancer at primary health care
+Women who present the following persistent and unexplained signs and symptoms should seek consultation at a PHC:
+a) Abnormal vaginal bleeding (i.e. after coitus, between menstrual periods, post menopause)
+b) Foul-smelling discharge
+c) Pain during vaginal intercourse
+d) Any of the above associated with palpable abdominal mass with persistent low back or abdominal pain
+Assess likelihood for cervical cancer
+Assess signs and symptoms (i.e. history, intensity, duration, progression)
+Identify relevant risk factors: age (30 years old and above)
+Speculum examination
+Differential diagnosis: abortion in pre-menopausal women, infections (e.g. Chlamydiae, gonococcal, etc.), genital ulcers, cervical inflammation, uterine polyps, dysfunctional uterus hemorrhage, endometrial or vaginal cancer
+Women presenting with a) b) or c)
+Women presenting with d)
+Without clinically detected cervical growth or ulceration
+With clinical detected cervical growth or ulceration
+Follow obstetric and gynecological guidelines as appropriate
+Refer if condition is not manageable at PHC, persists or worsens
+Refer immediately to next level
+Note: Referral of women with a) b) or c) may lead to a diagnosis of "early invasive cervical cancer", particularly in women 30 years old and above.
+Reference: Guidelines for referral of suspected breast and cervical cancer at primary health care in low resource settings, World Health Organization, 2013
+25
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low-resource settings
+Essential technologies and tools for implementing essential NCD interventions in primary care
+Technologies
+Tools
+Thermometer
+Stethoscope
+Blood pressure measurement device*
+Measurement tape
+Weighing machine
+Peak flow meter **
+Spacers for inhalers
+Glucometer
+Blood glucose test strips
+Urine protein test strips
+Urine ketones test strips
+WHO/ISH risk prediction charts Evidence based clinical protocols
+Flow charts with referral criteria Patient clinical record Medical information register Audit tools
+Add when resources permit:
+Nebulizer
+Pulse oximeter Blood cholesterol assay
+Lipid profile
+Serum creatinine assay
+Troponin test strips
+Urine microalbuminuria test strips Tuning fork Electrocardiogra (if training to read and interpret electrocardiograms is available)
+Defibrillator
+* For facilities with nonphysician health workers a validated blood pressure measurement device with digital reading is preferable for accurate measurement of blood pressure (28, 29)
+** Disposable mouth pieces required. Peak flow meters with one-way flow preferable.
+Reference:
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low- resource settings, World Health Organization, 2010.
+26
+I. Protocols for primary care
+Core list of medicines required for implementing essential NCD interventions in primary care
+For Primary Care facilities with Physicians
+(for PC facilities with only non-physician health workers most of the medicines below are required for refill of prescriptions issued by physicians at a higher level of care)
+Thiazide diuretic
+Calcium channel blocker (long acting)
+(amlodipine) Beta-blocker
+Morphine
+Penicillin
+Angiotensin converting enzyme inhibitor (long acting)
+Erythromycin
+Statin
+Hydrocortisone Epinephrine
+Metformin
+Heparin
+Glibenclamide
+Diazepam
+Isosorbide dinitrate
+Magnesium sulphate
+Glyceryl trinitrate
+Promethazine
+Furosemide
+Senna
+Spironolactone
+Dextrose infusion
+Salbutamol
+Glucose injectable solution
+Prednisolone
+Beclometasone
+Aspirin
+Paracetamol
+References:
+WHO model list Essential Medicines 17th edition, World Health Organization.
+Package of essential noncommunicable (PEN) disease interventions for primary health care in low- resource settings, World Health Organization, 2010.
+Aspirin, thiazide diuretic, calcium channel blocker, ACE inhibitor, betablocker, statin and metformin are essential to reach the target on prevention of heart attacks strokes and diabetes complications.
+27
+Ibuprofen Codeine
+Amoxicillin
+Insulin
+Sodium chloride infusion Oxygen
